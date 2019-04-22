@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 70px;
+}
+
+input {
+    text-align: center;
+    color: black;
+    background-color: lightcoral;
+}
+
+#first {
+    margin-left: 420px;
+    margin-right: 10px;
+    border: 3px solid darkorange;
+    border-radius: 6px;
+    height: 30px;
+}
+
+#second,
+#third {
+    margin-right: 10px;
+    border: 3px solid darkorange;
+    border-radius: 6px;
+    height: 30px;
+}
+
+#b1 {
+    margin-left: 573px;
+    margin-top: 20px;
+    color: navy;
+}
+
+#b2 {
+    color: navy;
+}
+
+#score {
+    text-align: center;
+    font-size: 30px;
+    margin-left: -20px;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+#err1 {
+    margin-top: 10px;
+    text-align: center;
+    color: green;
+    font-weight: bold;
+}
+
+#err0,
+#err2 {
+    margin-top: 10px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
